@@ -1,5 +1,7 @@
 package com.example.finnigan_liam_s1509952;
 
+// Liam Finnigan - S1509952 - MPD CW 2020
+
 import androidx.annotation.NonNull;
 
 import java.io.Serializable;
